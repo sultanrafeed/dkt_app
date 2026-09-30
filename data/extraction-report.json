@@ -1,0 +1,329 @@
+{
+ "totalSourceQuestionHeaders": 358,
+ "successfullyImported": 358,
+ "questionsWithImages": 194,
+ "questionsWithoutImages": 164,
+ "questionsRequiringManualReview": [
+  "AD034",
+  "CG045",
+  "CG062",
+  "CG064",
+  "CG110",
+  "ICAC1",
+  "IN039",
+  "ND040"
+ ],
+ "byCategory": {
+  "ICAC": 3,
+  "General Knowledge": 79,
+  "Alcohol and Drugs": 20,
+  "Bicycle Safety": 3,
+  "Fatigue and Defensive Driving": 24,
+  "Intersections": 51,
+  "Traffic Lights / Lanes": 45,
+  "Negligent Driving": 29,
+  "Pedestrians": 28,
+  "Seat Belts / Restraints": 12,
+  "Speed Limits": 13,
+  "Traffic Signs": 51
+ },
+ "bySection": {
+  "Introduction": 3,
+  "General Knowledge": 79,
+  "Road Safety": 225,
+  "Traffic Signs": 51
+ },
+ "numbering": {
+  "AD": {
+   "count": 14,
+   "first": 4,
+   "last": 41,
+   "missingNumbers": [
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    27,
+    28,
+    29,
+    30,
+    32,
+    35,
+    36,
+    37,
+    39,
+    40
+   ]
+  },
+  "BI": {
+   "count": 3,
+   "first": 1,
+   "last": 3,
+   "missingNumbers": []
+  },
+  "CG": {
+   "count": 79,
+   "first": 1,
+   "last": 123,
+   "missingNumbers": [
+    3,
+    4,
+    5,
+    8,
+    9,
+    11,
+    12,
+    15,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    33,
+    41,
+    50,
+    51,
+    54,
+    57,
+    58,
+    59,
+    60,
+    65,
+    66,
+    69,
+    72,
+    73,
+    74,
+    77,
+    79,
+    81,
+    85,
+    96,
+    97,
+    98,
+    101,
+    104,
+    107,
+    108,
+    109,
+    111
+   ]
+  },
+  "DR": {
+   "count": 6,
+   "first": 1,
+   "last": 11,
+   "missingNumbers": [
+    3,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  "FD": {
+   "count": 24,
+   "first": 1,
+   "last": 41,
+   "missingNumbers": [
+    8,
+    9,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    29,
+    39,
+    40
+   ]
+  },
+  "ICAC": {
+   "count": 3,
+   "first": 1,
+   "last": 3,
+   "missingNumbers": []
+  },
+  "IN": {
+   "count": 51,
+   "first": 1,
+   "last": 69,
+   "missingNumbers": [
+    2,
+    9,
+    15,
+    17,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    33,
+    36,
+    41,
+    47,
+    50,
+    52,
+    54,
+    55
+   ]
+  },
+  "LD": {
+   "count": 27,
+   "first": 1,
+   "last": 44,
+   "missingNumbers": [
+    6,
+    8,
+    12,
+    16,
+    19,
+    20,
+    21,
+    23,
+    24,
+    30,
+    31,
+    34,
+    35,
+    36,
+    37,
+    39,
+    42
+   ]
+  },
+  "ND": {
+   "count": 29,
+   "first": 2,
+   "last": 48,
+   "missingNumbers": [
+    3,
+    6,
+    13,
+    16,
+    17,
+    18,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    36,
+    37,
+    41,
+    42,
+    43
+   ]
+  },
+  "PD": {
+   "count": 28,
+   "first": 1,
+   "last": 31,
+   "missingNumbers": [
+    8,
+    20,
+    29
+   ]
+  },
+  "SB": {
+   "count": 12,
+   "first": 2,
+   "last": 23,
+   "missingNumbers": [
+    4,
+    5,
+    6,
+    9,
+    10,
+    14,
+    15,
+    18,
+    20,
+    21
+   ]
+  },
+  "SI": {
+   "count": 51,
+   "first": 1,
+   "last": 64,
+   "missingNumbers": [
+    5,
+    10,
+    11,
+    12,
+    15,
+    23,
+    29,
+    34,
+    37,
+    44,
+    47,
+    54,
+    55
+   ]
+  },
+  "SL": {
+   "count": 13,
+   "first": 7,
+   "last": 35,
+   "missingNumbers": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    24,
+    27,
+    29,
+    33
+   ]
+  },
+  "TL": {
+   "count": 18,
+   "first": 1,
+   "last": 19,
+   "missingNumbers": [
+    9
+   ]
+  }
+ },
+ "normalisations": [
+  "FD012: category label 'Fatigue and Defensive Driving RUH8' -> 'Fatigue and Defensive Driving' (stray 'RUH' reference marker removed)",
+  "PD012: category label 'Pedestrians RUH4' -> 'Pedestrians' (stray 'RUH' reference marker removed)",
+  "PD031: leading '.' removed from option '. At all times, if there is any danger o'",
+  "PD031: leading '.' removed from option '.Only on marked foot crossings.'"
+ ],
+ "errors": [],
+ "handbookPages": 212,
+ "handbookSections": 78
+}
