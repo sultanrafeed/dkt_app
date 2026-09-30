@@ -1,0 +1,10 @@
+{
+  "ICAC1": {"type": "not-in-handbook", "note": "The 6-week re-test ban is stated only in the question document. The 2026 handbook does not mention it (p. 6 only says you must not cheat)."},
+  "ND040": {"type": "not-in-handbook", "note": "The handbook (p. 62) lists 'large fines' and 'demerit points' for street racing but does not state a number of demerit points. The '3 demerit points' figure comes only from the 2018 question document."},
+  "CG062": {"type": "outdated-name", "note": "Refers to the 'RTA'. The 2026 handbook (p. 24) says you must tell Transport for NSW."},
+  "CG064": {"type": "outdated-name", "note": "Refers to the 'RTA', now Transport for NSW (handbook p. 186)."},
+  "AD034": {"type": "wording-differs", "note": "The question says 'serious crashes'; the 2026 handbook (p. 42) says around 50% of *fatal* crashes on Thursday, Friday and Saturday nights involve alcohol. The official answer (about 50%) matches either way."},
+  "IN039": {"type": "handbook-updated", "note": "The 2026 handbook (p. 91) describes red-light *speed* cameras that detect both red-light running and speeding, so the second option is now also partly true for those cameras. The official answer from the 2018 document is kept."},
+  "CG110": {"type": "not-in-handbook", "note": "The handbook covers flashing lights on the top/back of school buses (p. 36, p. 81), not headlights flashing on the front of a bus."},
+  "CG045": {"type": "wording-differs", "note": "The handbook (p. 174) lists name and address, registration number and the owner's name and address; showing your licence is listed for police (p. 175). The official answer is kept."}
+}
